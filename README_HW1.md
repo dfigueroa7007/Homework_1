@@ -1,10 +1,6 @@
 # Homework_1
 This is my first homework assignment
 
-This is my first push
+GitHub repo: https://github.com/dfigueroa7007/Homework_1
 
-Below are the edits made to "index.html" provided for homework assignment #1:
-
-Header
-* Deleted primary div tag and made it a "header" semantic tag
-* 
+GitHub live page: https://dfigueroa7007.github.io/Homework_1/
